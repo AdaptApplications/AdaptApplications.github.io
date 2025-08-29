@@ -1,5 +1,5 @@
 ---
 title: Library
-parent: Introduction
+parent: Features
 nav_order: 1
 ---
