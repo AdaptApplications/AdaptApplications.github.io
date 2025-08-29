@@ -1,1 +1,1 @@
-# Adapt Applications Documentation
+# Adapt Apps. Docs
