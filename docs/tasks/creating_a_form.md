@@ -18,7 +18,7 @@ After you've saved your form, you'll gain access to all the building tools.
 
 ## Building Your Form
 
-1.  Go to the **"Form Builder"** tab. This is where you will construct the form.
+1.  Go to the **Form Builder** tab. This is where you will construct the form.
 2.  Select the fields you want to include in your form from the **Form Toolbox** on the left.
 3.  Your selected fields will appear in the middle section of the page.
 
