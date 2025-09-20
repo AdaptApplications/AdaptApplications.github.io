@@ -4,19 +4,22 @@ parent: Introduction
 nav_order: 1
 ---
 
-## Introduction
+## About Libraries
+
+> A library contains all of your data, your automations, integrations, users and teams all in one place
 
 A Library is an organized collection of structured information which hold data, security and invoicing for a customer.
 
-Many users can have a access to a library and can be uetlised in many way
+new libraries can be created by only certain users
 
-## Features
+## Library Terminology
 
-- **Feature 1:** A short description of a key feature.
-- **Feature 2:** A short description of another key feature.
-- **Feature 3:** A short description of a third key feature.
-  
-## Getting Started
+| Syntax | Description |
+| --- | ----------- |
+| Form | A form is a structured document, used to collect specific, organized information|
+| Timeline | A timeline is a chronological list of events, often the flow of a form and can be used to create automation.  |
+| Data view | A Data view is a dynamic, customized view of data from a form, such as a database table  |
+| Report | A report is a structured document that presents information on a specific topic or event  |
 
 ### Prerequisites
 
