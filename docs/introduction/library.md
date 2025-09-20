@@ -14,6 +14,17 @@ new libraries can be created by only certain users
 
 ## Library Terminology
 
+<dl>
+  <dt>Name</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
+
 | Syntax | Description |
 | --- | ----------- |
 | Form | A form is a structured document, used to collect specific, organized information|
