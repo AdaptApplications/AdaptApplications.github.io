@@ -29,10 +29,16 @@ ___
 
 ___
 
-### Prerequisites
+### Ownership
 
-List any prerequisites or dependencies required to use the library.
+Libraries are owned by partners or admin users. The change of ownership can be completed by support staff. 
 
-### Installation
+When a change of ownership is requested, it typically involves verifying the identity of the new owner and ensuring that they have the appropriate permissions and roles to manage the library effectively. Support staff will facilitate this process. 
 
-Provide clear installation instructions, including code snippets for package managers or other methods.
+This structured approach to ownership changes helps prevent unauthorized access and maintains a clear record of who is responsible for managing the library's resources.
+
+___
+
+### Creating a library
+
+Libraries can only be created by users with administrative privileges or partner roles. This restriction ensures that the creation of new libraries is managed by individuals who have the necessary authority and understanding of the system. By limiting this capability.
