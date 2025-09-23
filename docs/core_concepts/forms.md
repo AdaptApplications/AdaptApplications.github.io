@@ -1,6 +1,6 @@
 ---
 title: Forms
-parent: Introduction
+parent: Core Concepts
 nav_order: 2
 ---
 
@@ -17,13 +17,13 @@ Adapt forms are designed to collect data that can be saved and sent to various d
 * **Timeline:** Logging form submissions as events on a timeline.
 * **Database:** Storing collected data directly in a database for later use.
 
-## Anatomy of a Form
+## Structure of a Form
 
-A form is built upon a simple, yet robust, structure:
+Forms are built using the following components:
 
 ### Fields
 
-Fields are the individual components used to collect specific pieces of information. Each field can be customized with various properties, such as:
+Fields are the individual components used to collect specific pieces of information. Each field can be customised with various properties, such as:
 
 * **Type:** Defines the kind of data to be collected (e.g., text, number, date, checkbox).
 * **Label:** A descriptive name for the field that is visible to the user.
@@ -31,9 +31,9 @@ Fields are the individual components used to collect specific pieces of informat
 
 ### Pages
 
-Forms can be broken down into multiple pages to improve the user experience, especially for long or complex forms. This approach:
+Forms can be broken down into multiple pages using the Page Break field. This helps improve the user experience, especially for long or complex forms. This approach:
 
-* **Organizes Information:** Groups related fields together, making the form more logical.
+* **Organises Information:** Groups related fields together, making the form more logical.
 * **Enables Progressive Disclosure:** Guides the user through a multi-step process.
 
 ## Advanced Features
