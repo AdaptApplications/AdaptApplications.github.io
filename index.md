@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# adapt apps.
+# Welcome adapt apps.
 
 Welcome to the documentation for Adapt Apps, your guide to building powerful, automated workflows.
 
