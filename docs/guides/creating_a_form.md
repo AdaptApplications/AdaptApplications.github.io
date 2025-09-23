@@ -1,6 +1,6 @@
 ---
 title: Creating a Form
-parent: Tasks
+parent: Guides
 nav_order: 1
 ---
 
