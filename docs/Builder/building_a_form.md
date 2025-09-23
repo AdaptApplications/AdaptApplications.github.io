@@ -1,13 +1,9 @@
 ---
-<<<<<<<< HEAD:docs/Builder/building_a_form.md
-title: Building a Form
-parent: Builder
-========
-title: Creating a Form
-parent: Guides
->>>>>>>> ac2aa57f36483c8a019115fac0448b1ab0f5979a:docs/guides/creating_a_form.md
+title: Building a form
+parent: Builder console
 nav_order: 1
 ---
+
 
 # Creating a Form in Adapt Apps
 

@@ -1,4 +1,4 @@
 ---
-title: User
+title: User console
 nav_order: 3
 ---

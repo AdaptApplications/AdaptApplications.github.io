@@ -17,10 +17,6 @@ ___
 ## Library Terminology
 
 <dl>
-  <dt>User Console</dt>
-<dd>central hub where users can log in with their credentials to gain authenticated access. Once logged in, the console provides a user-friendly interface to view data that is relevant to them</dd>
-    <dt>builder Console</dt>
-<dd>Power users can utelise our low code tools to build integrations and automations</dd>
   <dt>Form</dt>
 <dd>A form is a structured document designed to gather specific and organised information from users, ensuring clarity and consistency in data collection.</dd>
   <dt>Timeline</dt>
