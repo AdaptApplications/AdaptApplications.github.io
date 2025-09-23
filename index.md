@@ -12,9 +12,7 @@ Whether you're new to the system or a seasoned pro, this documentation will show
 
 Use the navigation on the left to get started. If you have any questions, our support team is ready to help.
 
-## Core apps 
-
-find out our 
+## Our core apps
 
 <dl>
   <dt>User Console</dt>
@@ -28,7 +26,9 @@ find out our
 Understand our core core concepts before you get started
 
 Understand a [Library](https://adaptapplications.github.io/docs/core_concepts/library.html).
+
 Understand a [Form](https://adaptapplications.github.io/docs/core_concepts/forms.html).
+
 Understand a [Data Views](https://adaptapplications.github.io/docs/core_concepts/library.html).
 
 
