@@ -1,10 +1,10 @@
 ---
 title: Library
 parent: Core Concepts
-nav_order: 1
+nav_order: 3
 ---
 
-## About Libraries
+# Libraries
 
 A library serves as a centralised repository that encompasses all of your data, automations, integrations, users, and teams, providing a cohesive environment for managing resources effectively.
 
@@ -16,16 +16,10 @@ ___
 
 ## Library Terminology
 
-<dl>
-  <dt>Form</dt>
-<dd>A form is a structured document designed to gather specific and organised information from users, ensuring clarity and consistency in data collection.</dd>
-  <dt>Timeline</dt>
-<dd> A timeline illustrates the flow of a form, highlighting key milestones and interactions, and can be utilised to automate processes by linking specific events to actions or notifications.</dd>
-  <dt>Data view</dt>
-<dd>A Data view is a dynamic, customisable representation of data extracted from a form, enabling users to analyse and interact with information in a structured manner.</dd>
-  <dt>Report</dt>
-  <dd>A report is similiar to a view but can be customised and exported.</dd>
-</dl>
+* **Form:** A form is a structured document designed to gather specific and organised information from users, ensuring clarity and consistency in data collection.
+* **Timeline:** A timeline illustrates the flow of a form, highlighting key milestones and interactions, and can be utilised to automate processes by linking specific events to actions or notifications.
+* **Data view:** A Data view is a dynamic, customisable representation of data extracted from a form, enabling users to analyse and interact with information in a structured manner.
+* **Report:** A report is similiar to a view but can be customised and exported.
 
 ___
 
@@ -41,4 +35,4 @@ ___
 
 ### Creating a library
 
-Libraries can only be created by users with administrative privileges or partner roles. This restriction ensures that the creation of new libraries is managed by individuals who have the necessary authority and understanding of the system. By limiting this capability.
+Libraries can only be created by users with administrative privileges or partner roles. This restriction ensures that the creation of new libraries is managed by individuals who have the necessary authority and understanding of the system.

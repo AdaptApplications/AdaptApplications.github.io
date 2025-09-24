@@ -1,22 +1,22 @@
 ---
 title: Users
 parent: Core Concepts
-nav_order: 2
+nav_order: 4
 ---
 
 # Adapt Users
 
-Access to Adapt apps is controlled by a user's identity, which is established when they sign up with a valid registration link. This identity determines their user type, such as **Partner:**, **Admin:**, or **Standard:** User, which in turn defines what data and features they can see and interact with. This ensures every user has the appropriate level of access without compromising security
+Access to Adapt apps is controlled by a user's identity, which is established when they sign up with a valid registration link. This identity determines their user type, such as **Partner:**, **Admin:**, or **Standard:** User, which in turn defines what data and features they can see and interact with. This ensures every user has the appropriate level of access without compromising security.
 
 
 ## Type of users
 
 Different users in adapt apps:
 
-* **Partner:** (*Not chargeable*)
+* **Partner:**
 * **Admin:**
 * **Standard:**
-* **Guest:** (*Not chargeable*)  
+* **Guest:**
 
 ### Partner user
 
@@ -54,5 +54,5 @@ Guest are an individual with the most limited access, designed for external or t
 Guest can access the following core applications:
 
 * User console
-    * No Dashboard
-    * No data views
+* No Dashboard
+* No data views
