@@ -5,9 +5,7 @@ nav_order: 1
 ---
 
 
-# Creating a Form in Adapt Apps
-
-To create a form, start by navigating to the Adapt Apps builder.
+# Building a Form in Adapt Apps
 
 ## Getting Started
 

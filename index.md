@@ -12,24 +12,24 @@ Whether you're new to the system or a seasoned pro, this documentation will show
 
 Use the navigation on the left to get started. If you have any questions, our support team is ready to help.
 
-## Our core apps
+## Our Core Apps
 
 <dl>
   <dt>User Console</dt>
-<dd>central hub where users can log in with their credentials to gain authenticated access. Once logged in, the console provides a user-friendly interface to view data that is relevant to them</dd>
-    <dt>Builder Console</dt>
-<dd>Power users can utelise our low code tools to build integrations and automations</dd>
+    <dd>This is the central hub for accessing all relevant user and library data. Users can log in to their account to view a user-friendly interface tailored to their needs.</dd>
+  <dt>Builder Console</dt>
+    <dd>Designed for power users, this app provides low-code tools to build seamless integrations and automations.</dd>
 </dl>
 
 ## Next steps
 
-Understand our core core concepts before you get started
+Before you begin, it's helpful to understand our core concepts:
 
-Understand a [Library](https://adaptapplications.github.io/docs/core_concepts/library.html).
+[Library](https://adaptapplications.github.io/docs/core_concepts/library.html): Learn what a Library is.
 
-Understand a [Form](https://adaptapplications.github.io/docs/core_concepts/forms.html).
+[Form](https://adaptapplications.github.io/docs/core_concepts/forms.html): Understand the purpose of a Form.
 
-Understand a [Data Views](https://adaptapplications.github.io/docs/core_concepts/library.html).
+[Data Views](https://adaptapplications.github.io/docs/core_concepts/library.html): Discover how to use Data Views.
 
 
 
