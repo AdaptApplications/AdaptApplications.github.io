@@ -6,22 +6,29 @@ nav_order: 4
 
 # Import multiple item from excel
 
-1.  Open the create page in the top left hand corner.
-![](./create_button.png)
+1.  **Navigate to the Create Page:**    
+    Click on the "Create" button located in the top left-hand corner of the interface.
+    ![](../create_button.png)
 
-2.  click on the more options next to the form and tap on the import from excel.
-![](icon_dropdown.png)
+2.  **Select import from excel from dropdown:**
+    Choose the specific type of item you wish to create from the available options.
+    ![](icon_dropdown.png)
 
-3.  Either download the template or use an already downloaded. then press next to proceed
-        -  include existing data exports all the data from the form.
+3.  **Download template or use an existing template:**
+    include existing data exports all the data from the form.
 
-4. Massage data into excel sheet ensure top 2 columns are present before import.
-![](Import_process_start.png)
-
-
-5. Upload data via the file import and begin import (note: use identifier to update items, it no identifier used items are only created)
+4.  **Edit template:**
+    Be sure to include the the top two columns on excel.
 
 
-5. Please use refresh icon to see progress of import excel
+
+5.  **Upload Excel file:**
+    Note: If you wish to update an existing item, select the record identifier to find and update it. This is not required if you are only entering new data.
+    ![](Import_process_start.png)
+
+
+
+6.  **Check your progress:**
+    Please use refresh icon to see progress of import excel
 
     
