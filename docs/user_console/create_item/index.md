@@ -1,5 +1,6 @@
 ---
 title: Creating Items
+parent: User console
 nav_order: 1
 ---
 
