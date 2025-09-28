@@ -16,7 +16,7 @@ nav_order: 4
         -  include existing data exports all the data from the form.
 
 4. Massage data into excel sheet ensure top 2 columns are present before import.
-![](import_process_start.png)
+![](Import_process_start.png)
 
 
 5. Upload data via the file import and begin import (note: use identifier to update items, it no identifier used items are only created)
