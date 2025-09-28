@@ -1,7 +1,7 @@
 ---
 title: Data Views
 parent: Core Concepts
-nav_order: 1
+nav_order: 3
 ---
 
 # Data Views

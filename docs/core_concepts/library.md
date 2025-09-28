@@ -1,7 +1,7 @@
 ---
 title: Library
 parent: Core Concepts
-nav_order: 3
+nav_order: 1
 ---
 
 # Libraries
@@ -17,6 +17,7 @@ ___
 ## Library Terminology
 
 * **Form:** A form is a structured document designed to gather specific and organised information from users, ensuring clarity and consistency in data collection.
+* **Item:** An Item is a library record containing data on a single physical or digital asset, which can be created and managed within Adapt applications.
 * **Timeline:** A timeline illustrates the flow of a form, highlighting key milestones and interactions, and can be utilised to automate processes by linking specific events to actions or notifications.
 * **Data view:** A Data view is a dynamic, customisable representation of data extracted from a form, enabling users to analyse and interact with information in a structured manner.
 * **Report:** A report is similiar to a view but can be customised and exported.
