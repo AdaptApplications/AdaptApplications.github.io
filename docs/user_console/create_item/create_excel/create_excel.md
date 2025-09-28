@@ -7,7 +7,7 @@ nav_order: 4
 # Import multiple item from excel
 
 1.  Open the create page in the top left hand corner.
-![](create_button.png)
+![](./create_button.png)
 
 2.  click on the more options next to the form and tap on the import from excel.
 ![](icon_dropdown.png)
