@@ -1,7 +1,7 @@
 ---
 title: Creating Items
 parent: User console
-nav_order: 1
+nav_order: 2
 ---
 
 # Creating Items in adapt apps.

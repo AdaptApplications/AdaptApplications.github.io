@@ -10,7 +10,7 @@ nav_order: 2
     Click on the "Create" button located in the top left-hand corner of the interface.
     ![](./create_button.png)
 
-2.  **Select Item Type:**
+2.  **Choose Item:**
     Choose the specific type of item you wish to create from the available options.
 
 3.  **Fill in the Form:**

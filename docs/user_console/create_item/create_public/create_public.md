@@ -8,14 +8,17 @@ nav_order: 5
     Click on the "Create" button located in the top left-hand corner of the interface.
     ![](../create_normal/create_button.png)
 
-2.  **Select Item Type:**
+2.  **Choose Public landing page or public form link:**
     Choose the specific type of item you wish to create from the available options.
 
-3.  **Fill in the Form:**
-    Complete all required fields in the creation form. Ensure all information is accurate and complete.
+    **Using the public landing page:**
+    Copy the public landing page link and paste in a new tab. to open the resource.
+    ![](landing_page.png)
 
-4.  **Mark as Public:**
-    Locate the "Public" checkbox or toggle and ensure it is selected. This will make the item accessible to the public.
 
-5.  **Save the Item:**
-    Click the "Save" or "Create" button at the bottom of the form to finalize the creation of your new public item.
+4.  **Using a public form link:**
+    Select the more icon and tap the share public link.
+    ![](../create_normal/icon_dropdown.png)
+
+
+
