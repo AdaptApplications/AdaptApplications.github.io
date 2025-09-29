@@ -18,7 +18,7 @@ nav_order: 5
 
 4.  **Using a public form link:**
     Select the more icon and tap the share public link.
-    ![](../create_normal/icon_dropdown.png)
+    ![](../icon_dropdown.png)
 
 
 

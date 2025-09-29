@@ -10,5 +10,5 @@ nav_order: 1
 
 You can create modify and update users in adapt adapts if you have admin persissions.
 
-use the followin to understand more.
+use the following to understand more.
 
