@@ -13,10 +13,10 @@ Access to Adapt apps is controlled by a user's identity, which is established wh
 
 Different users in adapt apps:
 
-* **Partner:**
-* **Admin:**
-* **Standard:**
-* **Guest:**
+* **Partner**
+* **Admin**
+* **Standard**
+* **Guest**
 
 ### Partner user
 
@@ -24,10 +24,10 @@ A Partner user has the highest privileges in Adapt apps, allowing them to manage
 
 Partners can access the following core applications:
 
-* Partner portal
-* Builder console
-* User management
-* User console
+* Partner Portal
+* Builder Console
+* User Management
+* User Console
 
 ### Admin user
 
@@ -35,8 +35,8 @@ Admin users are power users, they have the highest level of access for an intern
 
 Admin can access the following core applications:
 
-* User management
-* User console
+* User Management
+* User Console
 
 ### Standard user
 
@@ -44,7 +44,7 @@ Standard users are the primary end-user of adapt apps, and there focus is mainta
 
 Standard can access the following core applications:
 
-* User console
+* User Console
 
 
 ### Guest user
@@ -53,6 +53,6 @@ Guest are an individual with the most limited access, designed for external or t
 
 Guest can access the following core applications:
 
-* User console
+* User Console
 * No Dashboard
-* No data views
+* No Data Views

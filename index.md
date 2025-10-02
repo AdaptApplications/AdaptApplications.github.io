@@ -25,9 +25,9 @@ Use the navigation on the left to get started. If you have any questions, our su
 
 Before you begin, it's helpful to understand our core concepts:
 
-[Library](https://adaptapplications.github.io/docs/core_concepts/library.html): Learn what a Library is.
+[Libraries](https://adaptapplications.github.io/docs/core_concepts/library.html): Learn what a Library is.
 
-[Form](https://adaptapplications.github.io/docs/core_concepts/forms.html): Understand the purpose of a Form.
+[Forms](https://adaptapplications.github.io/docs/core_concepts/forms.html): Understand the purpose of a Form.
 
 [Data Views](https://adaptapplications.github.io/docs/core_concepts/library.html): Discover how to use Data Views.
 

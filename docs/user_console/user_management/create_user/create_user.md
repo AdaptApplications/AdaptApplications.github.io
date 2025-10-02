@@ -4,8 +4,7 @@ parent: Manage Users
 nav_order: 1
 ---
 
-This will send an onboarding link to a new user in which they follow to create a new user in adapt apps.
-
+# Creating a user
 
 1.  **Navigate to the user page:**
     Choose user management from the left hand nav.
@@ -15,10 +14,10 @@ This will send an onboarding link to a new user in which they follow to create a
     ![](new_user_link.png)
     
 
-3.  **Copy onboarding link**
-    A popup will appear to send an email link. however click on the copy link to retreive link to send to new user.
+3.  **Send or Copy Onboarding Link:**
+    A pop-up will appear, allowing you to send an email invitation to the new user's email address. Alternatively, you can click "Copy Link" to retrieve the onboarding link and share it manually.
     ![](copy_user_link.png)
 
+    Selecting *Send* will send an onboarding link to the new user, where they can go through the steps to create their Adapt Apps account.
 
-**Notes**
-Emails sending for users is in current development and will available soon
+    **Note:** Email functionality for sending onboarding links is currently under development and will be available soon. For now, please use the *Copy Link* feature and share it directly with the users you wish to add.

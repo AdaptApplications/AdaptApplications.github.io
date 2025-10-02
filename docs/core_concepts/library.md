@@ -1,5 +1,5 @@
 ---
-title: Library
+title: Libraries
 parent: Core Concepts
 nav_order: 1
 ---

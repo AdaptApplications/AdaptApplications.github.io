@@ -1,6 +1,6 @@
 ---
 title: Manage Users
-parent: User console
+parent: User Console
 nav_order: 1
 ---
 
@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Getting Started
 
-You can create modify and update users in adapt adapts if you have admin persissions.
+You can create, modify and update users in adapt adapts if you have admin persissions.
 
-use the following to understand more.
+Use the following to understand more.
 
