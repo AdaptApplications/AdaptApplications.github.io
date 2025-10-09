@@ -5,8 +5,7 @@ nav_order: 3
 ---
 
 # Item Actions
-
-## Getting Started
+When viewing an item in the User Console, you'll find a suite of actions available to manage and track its progress. These actions are designed to provide comprehensive control and visibility over your item's lifecycle:
 
 ### Timeline
 The **Timeline** section displays the current workflow timeline that the item is associated with.

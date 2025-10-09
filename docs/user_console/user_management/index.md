@@ -1,7 +1,7 @@
 ---
 title: Manage Users
 parent: User Console
-nav_order: 1
+nav_order: 2
 ---
 
 # Managing Users in adapt apps
