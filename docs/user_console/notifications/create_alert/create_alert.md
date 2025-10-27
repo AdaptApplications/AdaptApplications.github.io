@@ -11,14 +11,13 @@ nav_order: 2
 2.  **Click "Create New Alert":**
     On the Notifications page, locate and click the "Create New Alert" button.
 
-3.  **Configure Alert Details:**
-    A form will appear, prompting you to enter the following information:
-    *   **Alert Name:** A descriptive name for your alert.
-    *   **Description:** (Optional) A brief explanation of what this alert monitors.
-    *   **Trigger Condition:** Define the conditions that will trigger the alert (e.g., "Item Status is 'Overdue'", "Item Value is greater than 100").
-    *   **Severity:** Choose the severity level of the alert (e.g., Low, Medium, High, Critical).
-    *   **Recipients:** Specify who should receive notifications when the alert is triggered. You can select individual users or user groups.
-    *   **Notification Method:** Choose how recipients will be notified (e.g., Email, In-app notification).
+3.  **Choose User To Alert:**
+    Select the users you would like to send an alert to.
 
-4.  **Save Alert:**
-    Once all details are configured, click the "Save Alert" button to activate your new alert.
+4.  **Configure Alert Details:**
+    A form will appear, prompting you to enter the following information:
+    *   **Alert Title:** A descriptive title for your alert.
+    *   **Notification Message:** Enter the message that will be sent to the selected recipients.
+
+5.  **Send Alert:**
+    Once all the alert details are configured, click the "Send" button to activate your new alert.
