@@ -12,14 +12,13 @@ This guide will walk you through the process of creating a new team. You must be
 ## Step-by-Step Guide
 
 1.  **Navigate to User Management**
-    *   From the main navigation menu, select **Settings**.
-    *   In the Settings panel, click on **User Management**.
+    *   From the main navigation menu, select **Manage Users**.
 
 2.  **Open the Teams Tab**
     *   Within User Management, you will see several tabs. Click on the **Teams** tab to view the list of existing teams.
 
 3.  **Create a New Team**
-    *   Click the **New Team** button, usually located at the top of the team list.
+    *   Click the **Add A New Team** button, usually located at the top of the team list.
     *   A dialog or form will appear, prompting you for the new team's details.
 
 4.  **Enter Team Details**
