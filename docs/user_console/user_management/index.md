@@ -12,3 +12,5 @@ You can create, modify and update users in adapt adapts if you have admin persis
 
 Use the following to understand more.
 
+- [Create a user](./create_user/create_user.md)
+- [Delete a user](./delete_user/user_delete.md)
