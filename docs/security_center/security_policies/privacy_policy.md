@@ -6,32 +6,154 @@ nav_order: 2
 
 # Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [Your Website Name] (the “Site”).
+Adapt Applications Pty Ltd (ABN ) ("we", "us" or the "Company") is committed to privacy protection. At https://www.adaptapps.io/ ("this site"), we understand the importance of keeping personal information private and secure. This privacy policy ("Privacy Policy") describes generally how we manage personal information and safeguard privacy. If you would like more information, please don't hesitate to contact us.
+This Privacy Policy forms part of, and is subject to the provisions of, our Website Terms of Use (http://[What will be the URL for these website terms?]).
+We care about your privacy:
+We will never rent, trade or sell your personal information to anyone.
+We will never publicly display your email address or other personal details that identify you.
 
-## Personal Information We Collect
+## The Australian Privacy Principles
+We will treat all personal information in accordance with any and all obligations that are binding upon us under the Privacy Act 1988 (Cth) (“Privacy Act”). The Privacy Act lays down 13 key principles in relation to the collection and treatment of personal information, which are called the “Australian Privacy Principles”.
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+## What is "personal information"?
+Personal information held by the Company may include your:
+name and date of birth;
+residential and business postal addresses, telephone/mobile/fax numbers and email addresses;
+bank account and/or credit card details for agreed billing purposes;
+any information that you provided to us by you during your account creation process or added to your user profile;
+preferences and password for using this site and your computer and connection information; and
+any information that you otherwise share with us.
 
-## How We Use Your Personal Information
+## Information provided to Stripe
+All purchases that are made through this site are processed securely and externally by Stripe. Unless you expressly consent otherwise, we do not see or have access to any personal information that you may provide to Stripe, other than information that is required in order to process your order and deliver your purchased items to you (eg, your name, email address and billing address).
 
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+## How we may collect your personal information
+At this site, we only collect personal information that is necessary for us to conduct our business as [The Website Owner is:].
+Information that you provide to us
+We may collect personal information that you provide to us about yourself when you:
+use this site, including (without limitation) when you:
+create a user account;
+add information to your user profile;
+purchase any services through this site;
+add reviews, forum or chat room messages or comments in any elements of this site that permit user-generated content;
+register for access to premium content or request certain premium features; or
+complete an online contact form to contact us;
+provide information to us by telephone or through marketing or competition application forms; or
+send us an email or other communication.
 
-## Sharing Your Personal Information
+## IP addresses
+This site may also collect Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. The Company collects and manages IP addresses as part of the service of providing internet session management and for security purposes. The Company may also collect and use web log, computer and connection information for security purposes and to help prevent and detect any misuse of, or fraudulent activities involving, this site.
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site—you can read more about how Google uses your Personal Information here: [Google Privacy Policy Link].
+## Cookies
+This site uses "cookies" to help personalise your online experience. A cookie is a text file or a packet of information that is placed on your hard disk by a web page server to identify and interact more effectively with your computer. There are two types of cookies that may be used at this site: a persistent cookie and a session cookie. A persistent cookie is entered by your web browser into the "Cookies" folder on your computer and remains in that folder after you close your browser, and may be used by your browser on subsequent visits to this site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut down your computer. Cookies cannot be used to run programs. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. In some cases, cookies may collect and store personal information about you. The Company extends the same privacy protection to your personal information, whether gathered via cookies or from other sources.
+You can configure your internet browser to accept all cookies, reject all cookies or notify you when a cookie is sent. Please refer to your internet browser’s instructions to learn more about these functions. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this site.
 
-## Your Rights
+## Why we use cookies
+This site uses cookies in order to:
+remember your preferences for using this site;
+manage the signup process when you create an account with us;
+recognise you as logged in while you remain so. This avoids your having to log in again every time you visit a new page;
+facilitate e-commerce transactions, to ensure that your order is remembered between pages during the checkout process;
+show relevant notifications to you (eg, notifications that are relevant only to users who have, or have not, created an account or subscribed to newsletters or email or other subscription services); and
+remember details of data that you choose to submit to us (eg, through online contact forms or by way of comments, forum posts, chat room messages, reviews, ratings, etc).
+Many of these cookies are removed or cleared when you log out but some may remain so that your preferences are remembered for future sessions.
 
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+## Third party cookies
+In some cases, third parties may place cookies through this site. For example:
+Google Analytics, one of the most widespread and trusted website analytics solutions, may use cookies de-identified data about how long users spend on this site and the pages that they visit;
+Google AdSense, one of the most widespread and trusted website advertising solutions, may use cookies to serve more relevant advertisements across the web and limit the number of times that a particular advertisement is shown to you; and
+third party social media applications (eg, Facebook, Twitter, LinkedIn, Pinterest, YouTube, Instagram, etc) may use cookies in order to facilitate various social media buttons and/or plugins in this site.
 
-## Data Retention
+## How we may use your personal information
+Your personal information may be used in order to:
+verify your identity;
+assist you to place orders through this site;
+process any purchases of services that you may make through this site, including charging, billing and collecting debts;
+make changes to your account;
+respond to any queries or feedback that you may have;
+conduct appropriate checks for credit-worthiness and for fraud;
+prevent and detect any misuse of, or fraudulent activities involving, this site;
+conduct research and development in respect of our services;
+gain an understanding of your information and communication needs or obtain your feedback or views about our services in order for us to improve them; and/or
+maintain and develop our business systems and infrastructure, including testing and upgrading of these systems,
+and for any other purpose reasonably considered necessary or desirable by the Company in relation to the operation of our business.
+From time to time we may email our customers with news, information and offers relating to our own services or those of selected partners. Your personal information may also be collected so that the Company can promote and market products and services to you. This is to keep you informed of products, services, and special offers we believe you will find valuable and may continue after you cease acquiring products and services from us. If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request. You can unsubscribe from such communications at any time if you choose.
 
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+## When we may disclose your personal information
+In order to deliver the services you require or for the purposes set out above, the Company may disclose your personal information to organisations outside the Company. Your personal information may be disclosed to these organisations only in relation to this site, and the Company takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. These organisations may carry out or provide:
+customer enquiries;
+mailing systems;
+billing and debt-recovery functions;
+information technology services;
+marketing, telemarketing and sales services;
+market research;
+and
+website usage analysis.
+In addition, we may disclose your personal information to:
+your authorised representatives or legal advisers (when requested by you to do so);
+credit-reporting and fraud-checking agencies;
+credit providers (for credit-related purposes such as creditworthiness, credit rating, credit provision and financing);
+our professional advisers, including our accountants, auditors and lawyers;
+government and regulatory authorities and other organisations, as required or authorised by law;
+organisations who manage our business strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our business risk and funding functions;
+the police or other appropriate persons where your communication suggests possible illegal activity or harm to others; and
+any other third parties approved by you.
 
-## Changes
+## Contacting us about privacy
+If you would like more information about the way we manage personal information that we hold about you, would like to opt out of any marketing communications or are concerned that we may have breached your privacy, please contact us by email or by post.
 
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+## Access to your personal information
+In most cases, you may have access to personal information that we hold about you. We will handle requests for access to your personal information in accordance with the Australian Privacy Principles. All requests for access to your personal information must be directed to the Privacy Officer by email or by writing to us at our postal address. We will deal with all requests for access to personal information as quickly as possible. Requests for a large amount of information, or information that is not currently in use, may require further time before a response can be given. We may charge you a fee for access if a cost is incurred by us in order to retrieve your information, but in no case will we charge you a fee for your application for access.
+In some cases, we may refuse to give you access to personal information that we hold about you. This may include circumstances where giving you access would:
+be unlawful (eg, where a record that contains personal information about you is subject to a claim for legal professional privilege by one of our contractual counterparties);
+have an unreasonable impact on another person’s privacy; or
+prejudice an investigation of unlawful activity.
+We may also refuse access where the personal information relates to existing or anticipated legal proceedings, and the information would not be accessible by the process of discovery in those proceedings.
+If we refuse to give you access, we will provide you with reasons for our refusal.
 
-## Contact Us
+## Correcting your personal information
+We will amend any personal information about you that is held by us and that is inaccurate, incomplete or out of date if you request us to do so. If we disagree with your view about the accuracy, completeness or currency of a record of your personal information that is held by us, and you ask us to associate with that record a statement that you have a contrary view, we will take reasonable steps to do so.
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [Your Email Address].
+## Storage and security of your personal information
+We are committed to maintaining the confidentiality of the information that you provide us and we will take all reasonable precautions to protect your personal information from unauthorised use or alteration. In our business, personal information may be stored both electronically (on our computer systems and with our website hosting provider) and in hard-copy form. Firewalls, anti-virus software and email filters, as well as passwords, protect all of our electronic information. Likewise, we take all reasonable measures to ensure the security of hard-copy information.
+
+## Third party websites
+You may click-through to third party websites from this site, in which case we recommend that you refer to the privacy statement of the websites you visit. This Privacy Policy applies to this site only and the Company assumes no responsibility for the content of any third party websites.
+
+## Re-marketing
+We may use the Google AdWords and/or Facebook re-marketing services to advertise on third party websites to previous visitors to this site based upon their activity on this site. This allows us to tailor our marketing to better suit your needs and to only display advertisements that are relevant to you. Such advertising may be displayed on a Google search results page or a website in the Google Display Network or inside Facebook. Google and Facebook may use cookies and/or pixel tags to achieve this. Any data so collected by Google and/or Facebook will be used in accordance with their own respective privacy policies. None of your personal Google and/or Facebook information is reported to us.
+You can set preferences for how Google advertises to you using the Google Ads Settings page (https://www.google.com/settings/ads). Facebook has enabled an AdChoices link that enables you to opt out of targeted advertising. You may also opt out of any marketing or promotional communication that we send you, simply by contacting us by email or clicking on the opt out link on any communication we send to you.
+
+## GDPR
+The Company welcomes the General Data Protection Regulation (“GDPR”) of the European Union (“EU”) as an important step forward in streamlining data protection globally.  Although we do not operate an establishment within the EU and do not target any offering of services towards clients in the EU specifically, we intend to comply with the data handling regime laid out in the GDPR in respect of any personal information of data subjects in the EU that we may obtain.
+
+## GDPR rights
+The requirements of the GDPR are broadly similar to those set out in the Privacy Act and include the following rights:
+you are entitled to request details of the information that we hold about you and how we process it.  For EU residents, we will provide this information for no fee;
+you may also have a right to:
+have that information rectified or deleted;
+restrict our processing of that information;
+stop unauthorised transfers of your personal information to a third party;
+in some circumstances, have that information transferred to another organisation; and
+lodge a complaint in relation to our processing of your personal information with a local supervisory authority; and
+where we rely upon your consent as our legal basis for collecting and processing your data, you may withdraw that consent at any time.
+If you object to the processing of your personal information, or if you have provided your consent to processing and you later choose to withdraw it, we will respect that choice in accordance with our legal obligations.  However, please be aware that:
+such objection or withdrawal of consent could mean that we are unable to provide our services to you, and could unduly prevent us from legitimately providing our services to other clients subject to appropriate confidentiality protections; and
+even after you have chosen to withdraw your consent, we may be able to continue to keep and process your personal information to the extent required or otherwise permitted by law, in particular:
+to pursue our legitimate interests in a way that might reasonably be expected as part of running our business and which does not materially impact on your rights, freedoms or interests; and
+in exercising and defending our legal rights and meeting our legal and regulatory obligations.
+
+## Storage and processing by third parties
+Data that we collect about you may be stored or otherwise processed by third party services with data centres based outside the EU, such as Google Analytics, Microsoft Azure, Amazon Web Services, Apple, etc and online relationship management tools.  We consider that the collection and such processing of this information is necessary to pursue our legitimate interests in a way that might reasonably be expected (eg, to analyse how our clients use our services, develop our services and grow our business) and which does not materially impact your rights, freedom or interests.
+The Company requires that all third parties that act as “data processors” for us provide sufficient guarantees and implement appropriate technical and organisational measures to secure your data, only process personal data for specified purposes and have committed themselves to confidentiality.
+
+## Duration of retention of your data
+We will only keep your data for as long as is necessary for the purpose for which it was collected, subject to satisfying any legal, accounting or reporting requirements.  At the end of any retention period, your data will either be deleted completely or anonymised (for example, by aggregation with other data so that it can be used in a non-identifiable way for statistical analysis and business planning).  In some circumstances, you can ask us to delete your data.
+
+## Keeping your information up-to-date
+To ensure that your personal information is accurate and up to date, please promptly advise us of any changes to your information by contacting our data protection officer by email or by post.
+
+## Changes to this Privacy Policy
+From time to time, it may be necessary for us to revise this Privacy Policy. Any changes will be in accordance with any applicable requirements under the Privacy Act and the Australian Privacy Principles. We may notify you about changes to this Privacy Policy by posting an updated version on this site.
+* * * *
+If you require any further information about the Privacy Act and the Australian Privacy Principles, you can visit the Federal Privacy Commissioner’s website (see www.privacy.gov.au).
