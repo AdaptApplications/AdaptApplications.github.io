@@ -19,6 +19,8 @@ Use the navigation on the left to get started. If you have any questions, our su
     <dd>This is the central hub for accessing all relevant user and library data. Users can log in to their account to view a user-friendly interface tailored to their needs.</dd>
   <dt>Builder Console</dt>
     <dd>Designed for power users, this app provides low-code tools to build seamless integrations and automations.</dd>
+  <dt>Trust Center</dt>
+    <dd>Our Trust Center now includes a dedicated hub to provide compliance and assurance giving streamlined access to key security documentation. Access the portal to see the available resources.</dd>
 </dl>
 
 ## Next steps
@@ -30,6 +32,8 @@ Before you begin, it's helpful to understand our core concepts:
 [Forms](https://adaptapplications.github.io/docs/core_concepts/forms.html): Understand the purpose of a Form.
 
 [Data Views](https://adaptapplications.github.io/docs/core_concepts/library.html): Discover how to use Data Views.
+
+[Trust Center](https://adaptapplications.github.io/docs/security_center/index.html): Explore our security and compliance information.
 
 
 
