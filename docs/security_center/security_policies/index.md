@@ -1,6 +1,6 @@
 ---
 title: Security Policies
-parent: Trust Center
+parent: trust_center
 nav_order: 1
 ---
 
