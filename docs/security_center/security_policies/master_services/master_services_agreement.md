@@ -1,7 +1,7 @@
 ---
 title: Master Services Agreement
 parent: Security Policies
-nav_order: 3
+nav_order: 2
 ---
 
 # Master Services Agreement

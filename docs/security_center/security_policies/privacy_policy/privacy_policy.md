@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 parent: Security Policies
-nav_order: 2
+nav_order: 1
 ---
 
 # Privacy Policy
