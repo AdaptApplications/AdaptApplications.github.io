@@ -6,7 +6,7 @@ nav_order: 1
 
 # Privacy Policy
 
-Adapt Applications Pty Ltd (ABN ) ("we", "us" or the "Company") is committed to privacy protection. At https://www.adaptapps.io/ ("this site"), we understand the importance of keeping personal information private and secure. This privacy policy ("Privacy Policy") describes generally how we manage personal information and safeguard privacy. If you would like more information, please don't hesitate to contact us.
+Adapt Applications Pty Ltd (90644663418) ("we", "us" or the "Company") is committed to privacy protection. At https://www.adaptapps.io/ ("this site"), we understand the importance of keeping personal information private and secure. This privacy policy ("Privacy Policy") describes generally how we manage personal information and safeguard privacy. If you would like more information, please don't hesitate to contact us.
 This Privacy Policy forms part of, and is subject to the provisions of, our Website Terms of Use (http://[What will be the URL for these website terms?]).
 We care about your privacy:
 We will never rent, trade or sell your personal information to anyone.
