@@ -61,12 +61,8 @@ This guide shows you how to build a form using the Adapt Apps Form Builder. This
 
 ![](https://colony-recorder.s3.amazonaws.com/files/2026-03-06/4937dca8-2cd7-4a7f-8474-59a608833e86/user_cropped_screenshot_910d48dbe98c40d3842c5eb29098898d_text_export.jpeg)
 
-<br>
 <hr>
-<br>
-<div style="position: relative; padding-bottom: 62.5%; height: 0;">
-  <iframe src="https://www.loom.com/share/6437295494e84eb3b579705a6200ddb8" 
-          frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe src="https://www.loom.com/embed/6437295494e84eb3b579705a6200ddb8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
 </div>
