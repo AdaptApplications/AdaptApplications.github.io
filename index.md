@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome adapt apps.
+# Welcome to Adapt Apps.
 
 Welcome to the documentation for Adapt Apps, your guide to building powerful, automated workflows.
 
@@ -20,20 +20,23 @@ Use the navigation on the left to get started. If you have any questions, our su
 
   <dt>Builder Console</dt>
     <dd>Designed for power users, this app provides low-code tools to build seamless integrations and automations.</dd>
-
-  <dt>Trust Center</dt>
-    <dd>Our Trust Center now includes a dedicated hub to provide compliance and assurance giving streamlined access to key security documentation. Access the portal to see the available resources.</dd>
 </dl>
 
 <div style="display: flex; justify-content: space-evenly; margin-top: 50px;">
   <span class="fs-5" markdown="1">
-      [User Console Documentation](https://adaptapplications.github.io/user-docs){: .btn .btn-blue style="padding: 20px 40px; display: inline-flex; align-items: center; justify-content: center;" }
+      [User Console Documentation](https://adaptapplications.github.io/user-docs){:target="_blank" rel="noopener" .btn .btn-blue style="padding: 20px 40px; display: inline-flex; align-items: center; justify-content: center;" }
   </span>
 
   <span class="fs-5" markdown="1">
-      [Builder Console Documentation](https://adaptapplications.github.io/builder-docs){: .btn .btn-blue style="padding: 20px 40px; display: inline-flex; align-items: center; justify-content: center;" }
+      [Builder Console Documentation](https://adaptapplications.github.io/builder-docs){:target="_blank" rel="noopener" .btn .btn-blue style="padding: 20px 40px; display: inline-flex; align-items: center; justify-content: center;" }
   </span>
 </div>
+
+## Trust Center
+
+Our Trust Center provides a dedicated hub for compliance and assurance, giving you streamlined access to key security documentation. 
+
+[Explore our Trust Center](https://adaptapplications.github.io/docs/security_center/index.html){:target="_blank" rel="noopener" .btn .btn-blue style="padding: 10px 20px; display: inline-flex; align-items: center; justify-content: center;" }
 
 ## Next steps
 
@@ -49,6 +52,5 @@ Before you begin, it's helpful to understand our core concepts:
 
 [Teams](https://adaptapplications.github.io/docs/core_concepts/teams.html): Understand how to organise users into teams.
 
-[Trust Center](https://adaptapplications.github.io/docs/security_center/index.html): Explore our security and compliance information.
 
 
